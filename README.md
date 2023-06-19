@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @heitorzaghetto
+- 👀 I’m a marketing manager who is getting really deep into SQL programming
+- 💞️ I’m looking to collaborate on all kinds of projects envolving databases
+- 📫 You should reach me at my Linkedin Accoun: https://www.linkedin.com/in/heitorzaghetto/?locale=en_US
